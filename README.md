@@ -47,3 +47,5 @@ a) model: POJO, bean, setter/getter, entity, domain
 9. view
 (response)Once the view is finalized, The DispatcherServlet passes the model data to the view which is finally rendered on the browser.
 web-inf/ madhespring-servlet.xml and web.xml
+
+![image](https://user-images.githubusercontent.com/73180409/228178042-dbaca302-53a0-4258-84df-566b21aa99b0.png)
